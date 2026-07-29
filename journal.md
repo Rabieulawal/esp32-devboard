@@ -21,7 +21,7 @@ SO i started my doing some research on wireless protocools and how they work so 
 
 <a href="https://lapse.hackclub.com/timelapse/PyW0aGk3mHu5">lapse 1</a>
 
-<a href="">lapse 2 </a>
+<a href="https://lapse.hackclub.com/timelapse/zOv2Z5Z7tOna">lapse 2 </a>
 
 
 **Total time spent: 5.5h**
